@@ -1,8 +1,0 @@
-{
-  "train": [
-    "sub-00.npz"
-  ],
-  "test": [
-    "sub-00.npz"
-  ]
-}
